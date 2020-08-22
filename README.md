@@ -6,4 +6,4 @@ Hello there! I like to play games, mostly MMO, MMORPG and FPS games. I'm always 
 
 ## Lemme message you.
 
-Here  are my social(s) @aeristhy (My [Twitter](https://twitter.com/aeristhy)), Discord aeris#0018 or Eail me at aerisdoescodes@gmail.com
+Here  are my social(s) @aeristhy (My [Twitter](https://twitter.com/aeristhy)), Discord aeris#0018 or Email me at aerisdoescodes@gmail.com
