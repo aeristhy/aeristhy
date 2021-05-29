@@ -34,6 +34,4 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=disboardorg&repo=disboard-i18n&show_owner=true)](https://github.com/disboardorg/disboard-i18n)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=discordjs&repo=discord.js)](https://github.com/discordjs/discord.js)
-
 </details>
