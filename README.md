@@ -4,11 +4,11 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
 
 - 📫 How to reach me: Twitter ([@aeristhy](https://twitter.com/aeristhy)) or Discord aeris#0018.
  -->
----
-<a><h2>🏆 GitHub Trophy</h2></a>
+<!-- --- -->
+<!-- <a><h2>🏆 GitHub Trophy</h2></a>
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=aeristhy&theme=darkhub&row=2&column=3" />
-</div>
+</div> -->
 
 ---
 <div>
