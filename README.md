@@ -4,8 +4,8 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
 
 - 📫 How to reach me: Twitter ([@aeristhy](https://twitter.com/aeristhy)) or Discord aeris#0018.
  -->
----
-<a><h2>🏆 GitHub Trophy</h2></a>
+<!-- ---
+<a><h2>🏆 GitHub Trophy</h2></a> -->
 <div>
   <img src="https://github-profile-trophy.vercel.app/?username=aeristhy&theme=darkhub&title=Commit,Followers,Repositories,Stars" />
 </div>
@@ -20,7 +20,7 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
   </div> -->
 
 
----
+<!-- ---
 
 <details>
   <summary><b>Projects</b></summary><br />
@@ -37,4 +37,4 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=disboardorg&repo=disboard-i18n&show_owner=true)](https://github.com/disboardorg/disboard-i18n)
 
-</details>
+</details> -->
