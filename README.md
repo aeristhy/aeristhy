@@ -7,7 +7,7 @@ I'm a graphic designer, fron-end developer and a gamer. Not that I'm good but I'
 <!-- ---
 <a><h2>🏆 GitHub Trophy</h2></a> -->
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=aeristhy&theme=discord&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aeristhy" />
 </div>
 
 <!-- ---
