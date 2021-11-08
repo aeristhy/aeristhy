@@ -1,6 +1,6 @@
 <a><h2>🏆 GitHub Trophy</h2></a>
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aeristhy&column=8&theme=gruvbox&no-frame=true" />
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aeristhy&column=8&theme=discord&no-frame=true" />
 </div>
 
 ---
