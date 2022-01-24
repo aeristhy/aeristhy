@@ -9,8 +9,9 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: tweets.svg
-          token: ${{ secrets.TWITTER }}
+          token: NOT_NEEDED
           base: ""
+          plugin_tweets_token: ${{ secrets.TWITTER }}
           plugin_tweets_user: github
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
