@@ -1,15 +1,16 @@
 on:
-  schedule: [{cron: "0 */2 * * *"}]
   workflow_dispatch:
   push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: 🦑 Achievements
+      - name: Latest Tweet
         uses: lowlighter/metrics@latest
         with:
           filename: tweets.svg
           token: ${{ secrets.TWITTER_TOKEN }}
           base: ""
-          plugin_tweets: yes
+          plugin_tweets_user: github
+          plugin_tweets_attachments: yes
+          plugin_tweets_limit: 2
