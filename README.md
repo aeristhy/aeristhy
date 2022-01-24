@@ -10,7 +10,7 @@
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
     </a>
     </a>
-    <a href="https://github.com/lowlighter/metrics">
-        <img width="98%" alt="Trophy" src="/achievements.svg"/>
-    </a>
+<!--     <a href="https://github.com/lowlighter/metrics">
+        <img width="60%" alt="Trophy" src="/achievements.svg"/>
+    </a> -->
 </div>
