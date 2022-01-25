@@ -11,6 +11,6 @@
     </a>    
     </a>
     <a href="https://github.com/lowlighter/metrics">
-        <img width="600px" height="500px" alt= "tweets" src="/tweets.svg"/>
+        <img width="550px" height="500px" alt= "tweets" src="/tweets.svg"/>
     </a>
 </div>
