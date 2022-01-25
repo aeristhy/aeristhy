@@ -1,7 +1,7 @@
 on:
-  schedule: [{cron: "*/30 * * * *"}]
+  schedule: [{cron: "*/15 * * * *"}]
   workflow_dispatch:
-  push: {branches: ["master"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -13,6 +13,6 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_tweets_token: ${{ secrets.TWITTER }}
-          plugin_tweets_user: github
+          plugin_tweets_user: aeristhy
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
