@@ -14,5 +14,6 @@ jobs:
           base: ""
           plugin_tweets_token: ${{ secrets.TWITTER }}
           plugin_tweets_user: aeristhy
+          plugin_tweets: yes
           plugin_tweets_attachments: yes
           plugin_tweets_limit: 2
