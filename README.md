@@ -10,7 +10,8 @@
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
+    <a><h2>Twitter</h2></a>
     <a href="https://github.com/lowlighter/metrics">
-        <img width="550px" height="500px" alt= "tweets" src="/tweets.svg"/>
+        <img width="500" alt= "tweets" src="/tweets.svg"/>
     </a>
 </div>
