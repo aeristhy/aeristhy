@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="429" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="496" class="">
     <defs>
         <style/>
     </defs>
@@ -23,6 +23,23 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@VictorFolmann</span>
+                            : Yo
+                            <span class="mention">@JoshFabian</span>
+                            &amp;
+                            <span class="mention">@TryMetafy</span>
+                            <br />
+                            <br />
+                            Fueling Google with some cold cash from the Tigers🐯?
+                            <br />
+                            <br />
+                            If you want
+                            <span class="mention">@Twistzz</span>
+                            there's only on…
+                            <div class="date">11:18:57 on 7 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@DuolingoStrange</span>
                             :
                             <br />
@@ -33,11 +50,6 @@
                                 </div>
                             </div>
                             <div class="date">05:59:44 on 7 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@GamerzClass</span>
-                            9k hours total and still in pleb rank :)
-                            <div class="date">05:59:12 on 7 Feb 2022</div>
                         </div>
                     </section>
                 </div>
