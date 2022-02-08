@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
     <defs>
         <style/>
     </defs>
@@ -22,15 +22,18 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@NoContextDota2</span>
+                            : Immortal Coaches: For the first 10 minutes of the game, the Position 5 is the strongest hero on the map
+                            <br />
+                            <br />
+                            Your Position…
+                            <div class="date">02:54:39 on 8 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@WePlay_Esports</span>
                             It's all because of the Dragon Lore. To get good, you must have Dragon Lore!
                             <div class="date">15:07:13 on 7 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@EpheyDota</span>
-                            : the most annoying griefers in dota are the ones who start to ruin the game after they already played bad to make it seem lik…
-                            <div class="date">15:03:58 on 7 Feb 2022</div>
                         </div>
                     </section>
                 </div>
