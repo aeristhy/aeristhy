@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
     <defs>
         <style/>
     </defs>
@@ -23,19 +23,22 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@TeamSMGofficial</span>
+                            : TEAM SMG - NEW HORIZON
+                            <br />
+                            <br />
+                            When there is hope, light will always shine through.
+                            <br />
+                            The time has come. Believe in the unseen…
+                            <div class="date">07:34:18 on 11 Feb 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@ArtifexWarden</span>
                             :
                             <span class="mention">@ejmarchini</span>
                             You gotta start stretching your wrists before and after if you use your wrists more than your arm. These are…
                             <div class="date">06:12:45 on 11 Feb 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@TeamSMGofficial</span>
-                            : It's Regional Finals Day. It's time. We face off
-                            <span class="mention">@boomesportsid</span>
-                            in a best of three series in the DPC Regional Playoffs…
-                            <div class="date">06:06:00 on 11 Feb 2022</div>
                         </div>
                     </section>
                 </div>
