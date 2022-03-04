@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@GamerzClass</span>
+                            I play good HC now :)
+                            <div class="date">16:05:14 on 4 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@brokucs</span>
                             : VP after being fcked by TOs and now the community after their statement:
@@ -30,11 +35,6 @@
                             <br />
                             <a href="https://t.co/xKbFHrY2TZ" class="link">pic.twitter.com/xKbFHrY2TZ</a>
                             <div class="date">14:37:34 on 4 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@virtuspro</span>
-                            Yeah, let's blame cancel culture just like how we blame our supports for losing.
-                            <div class="date">14:35:40 on 4 Mar 2022</div>
                         </div>
                     </section>
                 </div>
