@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="227" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="211" class="">
     <defs>
         <style/>
     </defs>
@@ -22,18 +22,19 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            RT
+                            <span class="mention">@heyeaslo</span>
+                            : Stop wasting hours choosing platforms to use.
+                            <br />
+                            <br />
+                            Here are 10 tools for anyone starting a business in 2022:
+                            <div class="date">10:53:20 on 11 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             <span class="mention">@TundraEsports</span>
                             <span class="mention">@GamerzClass</span>
                             let's go!
                             <div class="date">06:43:12 on 11 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@TheCoachDonny</span>
-                            : NEW HAIKYUU REACTION VIDEO UP ON YOUTUBE!!
-                            <br />
-                            Volleyball Coach Reacts to Haikyuu S4 E17 - Kenma Leveling Up | Nekoma vs Sar…
-                            <div class="date">16:39:53 on 10 Mar 2022</div>
                         </div>
                     </section>
                 </div>
