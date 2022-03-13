@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="211" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="284" class="">
     <defs>
         <style/>
     </defs>
@@ -23,18 +23,26 @@
                         </div>
                         <div class="tweet">
                             RT
+                            <span class="mention">@SEADPCLeague</span>
+                            : Banned players:
+                            <br />
+                            1. vtFaded - Cheng Jia Hao
+                            <br />
+                            2. 闷油瓶 - Wang Liang (王亮)
+                            <br />
+                            3. Yif - Zhou Yifu (周一夫)
+                            <br />
+                            4. citrus (AhJit) - Lai Jay…
+                            <div class="date">09:36:30 on 13 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
+                            RT
                             <span class="mention">@heyeaslo</span>
                             : Stop wasting hours choosing platforms to use.
                             <br />
                             <br />
                             Here are 10 tools for anyone starting a business in 2022:
                             <div class="date">10:53:20 on 11 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@TundraEsports</span>
-                            <span class="mention">@GamerzClass</span>
-                            let's go!
-                            <div class="date">06:43:12 on 11 Mar 2022</div>
                         </div>
                     </section>
                 </div>
