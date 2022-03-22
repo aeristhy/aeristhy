@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="496" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="462" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@mytoecold</span>
+                            dude just tryna eat lol
+                            <div class="date">08:25:55 on 22 Mar 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@JoySakurai</span>
                             : Have you bought yours?
@@ -39,15 +44,6 @@
                                 </div>
                             </div>
                             <div class="date">15:24:02 on 21 Mar 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@MLPDotA</span>
-                            : Mike Le Bias is online! Thanks so much to
-                            <span class="mention">@TeamSMGofficial</span>
-                            for sending this over! Really high quality stuff! Now I'm
-                            <span class="hashtag">#stillmov…</span>
-                            <div class="date">10:07:23 on 21 Mar 2022</div>
                         </div>
                     </section>
                 </div>
