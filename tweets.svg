@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="446" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="429" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@shiruluv</span>
+                            Why does everything needs to get blurred in Japan? :sob:
+                            <div class="date">17:53:24 on 23 May 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@GamerzClass</span>
                             : Guess who 👀👀
@@ -42,12 +47,6 @@
                                 </div>
                             </div>
                             <div class="date">17:14:21 on 23 May 2022</div>
-                        </div>
-                        <div class="tweet">
-                            <span class="mention">@_NatTea</span>
-                            <span class="mention">@MATUMBAMAN</span>
-                            I remember letting my friends borrow my phone and stuff like this happened
-                            <div class="date">04:21:53 on 23 May 2022</div>
                         </div>
                     </section>
                 </div>
