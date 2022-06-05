@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="446" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="429" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ESLDota2</span>
+                            LMFAO WHO MADE THIS FORM HAHAHAHAHA
+                            <div class="date">10:23:41 on 5 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@OGesports</span>
                             : Our president meets the president (translated)
@@ -33,12 +38,6 @@
                                 </div>
                             </div>
                             <div class="date">09:06:37 on 5 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            I'm reading this shit while taking a shit
-                            <br />
-                            <a href="https://t.co/ac85x7nWcN" class="link">twitter.com/realamberheard…</a>
-                            <div class="date">15:59:23 on 2 Jun 2022</div>
                         </div>
                     </section>
                 </div>
