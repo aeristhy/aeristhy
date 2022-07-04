@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="462" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="446" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             aeristhy
                         </div>
                         <div class="tweet">
+                            <span class="mention">@ejmarchini</span>
+                            That area is considered street parking.
+                            <div class="date">04:31:50 on 4 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@AfricaInFocus_</span>
                             : A Nigerian official fake fainted after he was grilled about missing funds.
@@ -33,12 +38,6 @@
                                 </div>
                             </div>
                             <div class="date">04:26:09 on 3 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@PausedSponge</span>
-                            : Bro this is the funniest shit I've seen in a minute 😭 the SpongeBob cast dubbed this star wars scene https://t.co/trgl3bu…
-                            <div class="date">04:20:17 on 3 Jul 2022</div>
                         </div>
                     </section>
                 </div>
